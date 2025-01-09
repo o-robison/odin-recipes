@@ -1,0 +1,17 @@
+body {
+    background-color: #ffa;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0;
+}
+
+li {
+    background-color: lightgreen;
+
+}
